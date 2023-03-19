@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 import os, sys
-print('CSEC AntiScan v0.1')
+print('SHIFT AntiScan v0.1 by https://t.me/freeshift')
 
 class iptables:
     def enable():
